@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 PLANTERY — MERN Stack (Advanced Edition)
 
 > Full-featured MERN platform for plant care, plant-based commerce, and admin management.
@@ -111,3 +112,6 @@ Password: admin123
 - First-user-becomes-admin fallback so you can never lock yourself out.
 
 © PLANTERY. Cultivated with care.
+=======
+# solar-system-project
+>>>>>>> 341df55fab92d913513bcfa710c7b0ae2f1d3b12
